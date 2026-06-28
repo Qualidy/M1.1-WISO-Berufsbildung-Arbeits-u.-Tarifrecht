@@ -37,7 +37,7 @@ Die **Ausbildungsordnung** wird vom zuständigen Bundesministerium im Einvernehm
 
 - **Berufsprofil** und Handlungsfähigkeit am Ende der Ausbildung
 - **Ausbildungsdauer** (Fachinformatiker: in der Regel 3 Jahre; in der Umschulung oft verkürzt auf 2 Jahre bei entsprechender Qualifikation)
-- **Ausbildungsinhalte** in Form von Fachrichtungen (AE, SI) und Qualifikationsbausteinen
+- **Ausbildungsinhalte** in Form von vier Fachrichtungen (AE, SI, DPA, DV) und Qualifikationsbausteinen
 - **Prüfungsanforderungen** (Teil 1 und Teil 2 der Abschlussprüfung)
 
 Für den **Fachinformatiker** gibt es eine aktuelle Ausbildungsordnung mit gemeinsamen und fachrichtungsspezifischen Inhalten.

@@ -18,7 +18,7 @@
 
 - Was lebensbegleitendes Lernen bedeutet und warum es im IT-Bereich besonders wichtig ist
 - Wie du persönliche Entwicklungswege reflektierst und planst
-- Welche berufliche Aufstiegs- und Weiterbildungsmöglichkeiten Fachinformatiker AE und SI haben
+- Welche berufliche Aufstiegs- und Weiterbildungsmöglichkeiten Fachinformatiker in allen vier Fachrichtungen haben
 </div>
 
 ---
@@ -67,25 +67,23 @@ flowchart TD
 
 ---
 
-## 10.3 Karrierewege Fachinformatiker AE
+## 10.3 Karrierewege nach Fachrichtung
 
-**Anwendungsentwicklung (AE)** – typische Wege:
+Alle vier Fachrichtungen teilen den fachrichtungsübergreifenden Kern – die **Spezialisierung** prägt deinen typischen Karrierestart und Weiterbildungsweg.
+
+### Anwendungsentwicklung (AE)
 
 | Stufe | Rolle | Schwerpunkt |
 |---|---|---|
 | Einstieg | Junior Developer | Programmierung, Bugfixes, kleine Features |
-| Fortgeschritten | Developer / Software Engineer | Architektur, komplexe Systeme |
+| Fortgeschritten | Software Engineer | Architektur, komplexe Systeme |
 | Spezialist | Senior Developer, Tech Lead | Technische Führung, Code-Qualität |
 | Alternative | Product Owner, Scrum Master | Schnittstelle Business/IT |
-| Aufstieg | IT-Projektleiter, Architect | Gesamtplanung, Strategie |
+| Aufstieg | IT-Projektleiter, Software Architect | Gesamtplanung, Strategie |
 
-**Weiterbildung AE:** Zertifikate (AWS, Azure), Frameworks, Clean Code, Security, Studium (Informatik, Wirtschaftsinformatik).
+**Weiterbildung:** Cloud-Zertifikate (AWS, Azure), Frameworks, Clean Code, Security, Studium (Informatik, Wirtschaftsinformatik).
 
----
-
-## 10.4 Karrierewege Fachinformatiker SI
-
-**Systemintegration (SI)** – typische Wege:
+### Systemintegration (SI)
 
 | Stufe | Rolle | Schwerpunkt |
 |---|---|---|
@@ -95,11 +93,35 @@ flowchart TD
 | Alternative | DevOps Engineer | Automatisierung, CI/CD |
 | Aufstieg | IT-Leiter, Infrastructure Architect | Gesamt-IT-Landschaft |
 
-**Weiterbildung SI:** Cisco/Microsoft/Z-Linux-Zertifikate, ITIL, Cloud (AWS, Azure), Cybersecurity.
+**Weiterbildung:** Cisco/Microsoft/Linux-Zertifikate, ITIL, Cloud, Cybersecurity.
+
+### Daten- und Prozessanalyse (DPA)
+
+| Stufe | Rolle | Schwerpunkt |
+|---|---|---|
+| Einstieg | Data Analyst, Prozessberater | Daten auswerten, Prozesse dokumentieren |
+| Fortgeschritten | Business Analyst, Data Engineer | Datenpipelines, Prozessoptimierung |
+| Spezialist | Data Scientist, Process Owner | ML/Analytics, digitale Geschäftsmodelle |
+| Alternative | Datenschutzbeauftragter (mit Zusatzqualifikation) | DSGVO, Schutzziele |
+| Aufstieg | Head of Analytics, Digital Transformation Manager | Datenstrategie, Optimierung |
+
+**Weiterbildung:** SQL/Python für Analytics, Power BI/Tableau, Prozessmanagement (BPMN), Data-Science-Kurse, Datenschutz-Zertifikate.
+
+### Digitale Vernetzung (DV)
+
+| Stufe | Rolle | Schwerpunkt |
+|---|---|---|
+| Einstieg | IoT-Techniker, Automatisierungstechniker | Vernetzte Geräte, Sensorik, Basis-PLC |
+| Fortgeschritten | IoT Engineer, OT-Spezialist | Industrie 4.0, Edge Computing |
+| Spezialist | Vernetzungsarchitekt | Produktions- und Logistiksysteme |
+| Alternative | Smart-Factory Consultant | Vernetzung von Prozessen und Produkten |
+| Aufstieg | Leiter technische Digitalisierung | Systemverfügbarkeit, Vernetzungsstrategie |
+
+**Weiterbildung:** IoT-Plattformen, industrielle Netzwerke, OPC UA, Automatisierung, IT-Security in OT-Umgebungen.
 
 ---
 
-## 10.5 Formen der Weiterbildung
+## 10.4 Formen der Weiterbildung
 
 | Form | Beispiel | Dauer / Aufwand |
 |---|---|---|
@@ -114,12 +136,12 @@ flowchart TD
 
 ---
 
-## 10.6 Persönlicher Entwicklungsplan
+## 10.5 Persönlicher Entwicklungsplan
 
 **Reflexionsfragen:**
 
 1. Welche **Stärken** bringe ich aus Vorberuf und Umschulung mit?
-2. AE oder SI – wo sehe ich mich in 3 Jahren?
+2. Welche **Fachrichtung** (AE, SI, DPA, DV) – wo sehe ich mich in 3 Jahren?
 3. Welche **3 Skills** brauche ich für den nächsten Schritt?
 4. Wer kann mich **mentoren** (Ausbilder, Senior, Community)?
 5. Wie messe ich meinen **Fortschritt** (Portfolio, GitHub, Zertifikate)?

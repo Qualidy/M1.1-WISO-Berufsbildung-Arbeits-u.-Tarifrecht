@@ -17,7 +17,7 @@
 <h3>Was du in diesem Kapitel lernst</h3>
 
 - Was das duale System der Berufsausbildung ist und welche Rollen die Beteiligten haben
-- Wie die Umschulung zum Fachinformatiker (AE/SI) strukturiert ist und wo du dich darin einordnest
+- Wie die Umschulung zum Fachinformatiker strukturiert ist und welche **vier Fachrichtungen** es gibt
 - Welche Unterschiede zwischen regulärer Berufsausbildung (3 Jahre) und Umschulung (2 Jahre) bestehen
 - Was einen geeigneten Praktikumsbetrieb ausmacht und welche Anforderungen er erfüllen muss
 </div>
@@ -54,8 +54,17 @@ flowchart LR
 | Kammer (z. B. IHK) | Prüft Ausbildungsbetriebe, berät, führt Prüfungen durch |
 | Bundesministerium / Landesregierung | Schreibt Ausbildungsordnungen und Rahmenlehrpläne |
 
-!!! info "Fachinformatiker AE und SI"
-    Der Beruf **Fachinformatiker** ist in zwei Fachrichtungen gegliedert: **Anwendungsentwicklung (AE)** und **Systemintegration (SI)**. Beide Fachrichtungen teilen einen gemeinsamen Teil der Ausbildung; die Spezialisierung unterscheidet sich in Schwerpunktinhalten und Prüfungsaufgaben.
+!!! info "Vier Fachrichtungen beim Fachinformatiker"
+    Seit der **Fachinformatikerausbildungsverordnung (FIAusbV, 2020)** gliedert sich der Beruf in **vier Fachrichtungen**. Allen gemeinsam ist ein fachrichtungsübergreifender Teil; ab der Spezialisierung unterscheiden sich Schwerpunktinhalte und **Teil 2 der Abschlussprüfung**:
+
+    | Fachrichtung | Kurz | Schwerpunkt (Auswahl) |
+    |---|---|---|
+    | Anwendungsentwicklung | AE | Software konzipieren, entwickeln, Qualität sichern |
+    | Systemintegration | SI | IT-Systeme, Netzwerke, Administration |
+    | Daten- und Prozessanalyse | DPA | Prozesse und Daten analysieren, optimieren, Datenschutz |
+    | Digitale Vernetzung | DV | Vernetzte Systeme planen, errichten, betreiben (IoT/Industrie 4.0) |
+
+    In der **Umschulung** werden häufig noch **AE** und **SI** angeboten – prüfe beim Bildungsträger und bei Betrieben, welche Fachrichtungen verfügbar sind.
 
 ---
 
@@ -127,7 +136,7 @@ Der **Praktikumsbetrieb** ist dein Ausbildungsbetrieb während der betrieblichen
 
 **Worauf du bei der Betriebswahl achten solltest:**
 
-- **Fachrichtung passend?** AE (Entwicklung) vs. SI (Netze, Systeme, Support) – passt der Betrieb zu deiner Zielrichtung?
+- **Fachrichtung passend?** Passt der Betrieb zu deiner Zielrichtung (AE, SI, DPA oder DV)?
 - **Ausbildungsstruktur:** Gibt es feste Ausbildungsinhalte, Mentoring, Zeit für Lernen?
 - **Technologie-Stack:** Welche Sprachen, Frameworks, Infrastruktur werden genutzt?
 - **Ausbilder:** Wer ist ausbildungsbefähigt und wie viel Zeit steht für Anleitung zur Verfügung?

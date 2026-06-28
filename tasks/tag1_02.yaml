@@ -6,8 +6,10 @@ question: |
   Erstelle eine Tabelle mit mindestens **5 Merkmalen** (z. B. Dauer, Zielgruppe, Lernorte, Finanzierung, Tempo).
 
   Ergänze **2 Gemeinsamkeiten** in Stichpunkten.
+
+  **Zusatzfrage:** Nenne die **vier Fachrichtungen** des Fachinformatikers (laut FIAusbV) mit Kurzbezeichnung.
 tip: |
-  Nutze die Unterschiede in Einstieg, Lernort-Reihenfolge und Lerntempo.
+  Nutze die Unterschiede in Einstieg, Lernort-Reihenfolge und Lerntempo. Vier Fachrichtungen seit 2020: AE, SI, DPA, DV.
 solution: |
   Beispiel:
 
@@ -20,3 +22,5 @@ solution: |
   | Tempo | Gleichmäßig über 3 Jahre | Verdichtet, höheres Lerntempo |
 
   Gemeinsamkeiten: gleiche Abschlussprüfung nach Ausbildungsordnung; dualer Charakter mit betrieblicher Phase; Ausbildungsvertrag im Betrieb; BBiG als Rechtsgrundlage.
+
+  Vier Fachrichtungen: Anwendungsentwicklung (AE), Systemintegration (SI), Daten- und Prozessanalyse (DPA), Digitale Vernetzung (DV).

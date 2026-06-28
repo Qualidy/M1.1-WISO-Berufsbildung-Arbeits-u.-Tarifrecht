@@ -49,7 +49,7 @@ Nach § 11 BBiG muss der Ausbildungsvertrag mindestens folgende Angaben enthalte
 |---|---|
 | Name und Anschrift der Vertragsparteien | Betrieb, Auszubildende Person |
 | Beginn und Dauer der Ausbildung | z. B. 01.09.2026, 2 Jahre |
-| Art der Ausbildung | Fachinformatiker, Fachrichtung AE oder SI |
+| Art der Ausbildung | Fachinformatiker mit Fachrichtung (AE, SI, DPA oder DV) |
 | Ausbildungsstätte | Betriebsstandort, ggf. weitere Orte |
 | Ausbildungsvergütung | Betrag und Staffelung nach Ausbildungsjahr |
 | Kündigungsfristen | Besondere Regeln im BBiG |
@@ -108,7 +108,7 @@ Nach § 11 BBiG muss der Ausbildungsvertrag mindestens folgende Angaben enthalte
 
 Wenn du noch **keinen Betrieb** hast, solltest du den Ausbildungsvertrag bereits **konzeptionell** verstehen:
 
-- **Verhandlungsbasis:** Welche Vergütung, Dauer, Fachrichtung (AE/SI) sind realistisch?
+- **Verhandlungsbasis:** Welche Vergütung, Dauer und Fachrichtung (AE, SI, DPA, DV) sind realistisch?
 - **Checkliste für Vertragsprüfung:** Beim Erhalt eines Vertrags alle Pflichtinhalte abhaken
 - **Kammerberatung:** IHK kann Verträge prüfen und bei Unklarheiten helfen
 - **Mustervertrag:** Kammern bieten Muster – Vergleich mit deinem Vertrag sinnvoll

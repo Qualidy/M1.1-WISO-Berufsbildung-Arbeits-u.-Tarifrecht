@@ -5,7 +5,7 @@ hide:
 ---
 
 <div class="course-hero">
-  <span class="course-badge">Umschulung · Fachinformatiker AE/SI</span>
+  <span class="course-badge">Umschulung · Fachinformatiker</span>
   <h1 class="course-title">M1.1 WISO: Berufsbildung, Arbeits- u. Tarifrecht</h1>
   <p class="course-desc">Duales System, Ausbildungsvertrag, Arbeits- und Sozialrecht, Mitbestimmung, Entgeltabrechnung, Lernstrategien und berufliche Weiterentwicklung im IT-Bereich – praxisnah für die Umschulung.</p>
 </div>
@@ -71,7 +71,7 @@ hide:
 <a class="day-card" href="content/kapitel10/">
   <span class="day-label">Kapitel 10</span>
   <strong class="day-title">Lebenslanges Lernen und IT-Karriere</strong>
-  <span class="day-topics">Weiterbildung · Aufstieg AE/SI · Entwicklungswege</span>
+  <span class="day-topics">Weiterbildung · Aufstieg · AE · SI · DPA · DV</span>
 </a>
 
 </div>
