@@ -1,0 +1,14 @@
+title: AE vs. SI Karrierewege
+difficulty: 2
+question: |
+  Erstelle eine **Vergleichstabelle** mit mindestens 4 Zeilen:
+
+  | Aspekt | Fachinformatiker AE | Fachinformatiker SI |
+  |--------|---------------------|---------------------|
+
+  Themen: typischer Einstieg, Spezialisierung, Weiterbildung, Aufstieg.
+tip: |
+  AE = Entwicklung; SI = Infrastruktur, Netzwerk, Support.
+solution: |
+  AE Einstieg Junior Dev, Spezialisierung Backend/Frontend, Weiterbildung Cloud/Clean Code, Aufstieg Architect/Tech Lead.
+  SI Einstieg Support/Admin, Spezialisierung Netzwerk/Security, Zertifikate Cisco/Azure, Aufstieg IT-Leiter/DevOps.

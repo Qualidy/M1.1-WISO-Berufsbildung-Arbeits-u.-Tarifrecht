@@ -4,41 +4,74 @@ hide:
   - toc
 ---
 
-
-
-<div class="grid" markdown style="grid-template-columns: repeat(2, minmax(0, 1fr));">
-
-<div markdown>
-
-# Basis Wiki
-
-<div class="grid cards fancy grid--cols-1" markdown >
-- [:material-call-split: **Topic 1**](content/1.md)
-- [:material-call-split: **Topic 1**](content/1.md)
-- [:material-call-split: **Topic 1**](content/1.md)
-- [:material-call-split: **Topic 1**](content/1.md)
+<div class="course-hero">
+  <span class="course-badge">Umschulung · Fachinformatiker AE/SI</span>
+  <h1 class="course-title">M1.1 WISO: Berufsbildung, Arbeits- u. Tarifrecht</h1>
+  <p class="course-desc">Duales System, Ausbildungsvertrag, Arbeits- und Sozialrecht, Mitbestimmung, Entgeltabrechnung, Lernstrategien und berufliche Weiterentwicklung im IT-Bereich – praxisnah für die Umschulung.</p>
 </div>
 
-</div>
+<h2 class="course-week-title">Kapitelübersicht</h2>
 
-<div style="margin-left: 15px" markdown>
+<div class="chapter-grid">
 
-![](assets/logo.png)
+<a class="day-card" href="content/kapitel1/">
+  <span class="day-label">Kapitel 1</span>
+  <strong class="day-title">Berufsbildung und Umschulung</strong>
+  <span class="day-topics">Duales System · Umschulung vs. Ausbildung · Praktikumsbetrieb</span>
+</a>
 
-Hier können weitere Inhalte rein.
+<a class="day-card" href="content/kapitel2/">
+  <span class="day-label">Kapitel 2</span>
+  <strong class="day-title">Ausbildungsvertrag</strong>
+  <span class="day-topics">Vertragsinhalte · Rechte & Pflichten · Beteiligte</span>
+</a>
 
-{{ link("externer Link", "https://google.com") }}
+<a class="day-card" href="content/kapitel3/">
+  <span class="day-label">Kapitel 3</span>
+  <strong class="day-title">Ausbildungsplan und Ausbildungsordnung</strong>
+  <span class="day-topics">BAP · Ausbildungsordnung · Vergleich & Abstimmung</span>
+</a>
 
-{{ youtube_video("https://www.youtube.com/embed/chPCpYNJe_Q?si=frU_Z_VwSGnPWEPF") }}
+<a class="day-card" href="content/kapitel4/">
+  <span class="day-label">Kapitel 4</span>
+  <strong class="day-title">Arbeitsrecht Grundlagen</strong>
+  <span class="day-topics">Arbeitsvertrag · Kündigung · Urlaub · Jugendarbeitsschutz</span>
+</a>
 
-!!! tip "Schneller Navigieren"
+<a class="day-card" href="content/kapitel5/">
+  <span class="day-label">Kapitel 5</span>
+  <strong class="day-title">Sozialversicherung und Sozialrecht</strong>
+  <span class="day-topics">SV-System · Beiträge · Leistungen · Besonderheiten Umschulung</span>
+</a>
 
-    ++p++ oder ++comma++ : Zur vorherigen Seite gehen (**P**revious)
+<a class="day-card" href="content/kapitel6/">
+  <span class="day-label">Kapitel 6</span>
+  <strong class="day-title">Mitbestimmungsrecht</strong>
+  <span class="day-topics">Betriebsrat · Mitbestimmung · Beteiligungsrechte</span>
+</a>
 
-    ++n++ oder ++period++ : Zur nächsten Seite gehen (**N**ext)
-    
-</div>
-[Subscribe to our newsletter](#){ .md-button }
+<a class="day-card" href="content/kapitel7/">
+  <span class="day-label">Kapitel 7</span>
+  <strong class="day-title">Tarifrecht und Arbeitszeit</strong>
+  <span class="day-topics">Tarifvertrag · Arbeitszeitgesetz · Überstunden · Gleitzeit</span>
+</a>
 
-[Subscribe to our newsletter](#){ .md-button .md-button--primary }
+<a class="day-card" href="content/kapitel8/">
+  <span class="day-label">Kapitel 8</span>
+  <strong class="day-title">Entgeltabrechnung</strong>
+  <span class="day-topics">Brutto/Netto · Abzüge · Lohnsteuer · Ausbildungsvergütung</span>
+</a>
+
+<a class="day-card" href="content/kapitel9/">
+  <span class="day-label">Kapitel 9</span>
+  <strong class="day-title">Lern- und Arbeitstechniken</strong>
+  <span class="day-topics">Selbstgesteuertes Lernen · Online-Unterricht · Digitale Werkzeuge</span>
+</a>
+
+<a class="day-card" href="content/kapitel10/">
+  <span class="day-label">Kapitel 10</span>
+  <strong class="day-title">Lebenslanges Lernen und IT-Karriere</strong>
+  <span class="day-topics">Weiterbildung · Aufstieg AE/SI · Entwicklungswege</span>
+</a>
+
 </div>
