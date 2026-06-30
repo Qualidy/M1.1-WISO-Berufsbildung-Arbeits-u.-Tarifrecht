@@ -68,8 +68,8 @@ Das BBiG enthält **besondere Kündigungsregeln** für Auszubildende:
 
 | Situation | Regel (vereinfacht) |
 |---|---|
-| Kündigung ohne Einvernehmen | In den ersten 6 Monaten ohne besonderen Grund möglich (Frist beachten) |
-| Nach 6 Monaten | Nur aus wichtigem Grund oder mit Zustimmung der zuständigen Stelle |
+| Kündigung ohne Einvernehmen | In den ersten 4 Monaten ohne besonderen Grund möglich (Frist beachten) |
+| Nach 4 Monaten | Nur aus wichtigem Grund oder mit Zustimmung der zuständigen Stelle |
 | Kündigung durch Azubi | Mit 4 Wochen Frist zum Monatsende oder Ausbildungsende |
 | Probezeit | Oft 1–3 Monate im Vertrag – BBiG-Regeln zusätzlich beachten |
 
