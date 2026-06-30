@@ -62,19 +62,34 @@ Nach erfolgreicher **Abschlussprüfung** und Übernahme wechselst du oft in ein 
 
 ---
 
-## 4.3 Kündigung in der Ausbildung
+## 4.3 Probezeit und Kündigung in der Ausbildung
 
-Das BBiG enthält **besondere Kündigungsregeln** für Auszubildende:
+Das BBiG regelt **Probezeit** und **Kündigung** in § 20 und § 22.
+
+### Probezeit (§ 20 BBiG)
+
+Jede Ausbildung beginnt mit einer **Probezeit**. Sie muss im Ausbildungsvertrag vereinbart werden:
+
+| Regel | Inhalt |
+|---|---|
+| Mindestdauer | **1 Monat** |
+| Höchstdauer | **4 Monate** |
+| Längere Vereinbarung | **Unwirksam** – z. B. eine Probezeit von 6 Monaten ist nicht zulässig |
+
+!!! warning "Prüfungstipp"
+    Die **Probezeit bei Auszubildenden** darf gesetzlich **höchstens vier Monate** betragen (§ 20 BBiG). Das unterscheidet sich von manchen **Arbeitsverträgen**, in denen längere Probezeiten vorkommen können.
+
+### Kündigung (§ 22 BBiG)
 
 | Situation | Regel (vereinfacht) |
 |---|---|
-| Kündigung ohne Einvernehmen | In den ersten 4 Monaten ohne besonderen Grund möglich (Frist beachten) |
-| Nach 4 Monaten | Nur aus wichtigem Grund oder mit Zustimmung der zuständigen Stelle |
-| Kündigung durch Azubi | Mit 4 Wochen Frist zum Monatsende oder Ausbildungsende |
-| Probezeit | Oft 1–3 Monate im Vertrag – BBiG-Regeln zusätzlich beachten |
+| **Während der Probezeit** | Beide Seiten können **jederzeit ohne Kündigungsfrist** kündigen |
+| **Nach der Probezeit – Betrieb** | Nur noch aus **wichtigem Grund** (fristlos); ordentliche Kündigung durch den Betrieb ist ausgeschlossen |
+| **Nach der Probezeit – Azubi** | Mit **4 Wochen Frist** zum Monatsende oder Ausbildungsende, wenn die Ausbildung aufgegeben oder eine andere Berufsausbildung angestrebt wird |
+| **Form** | Kündigung **schriftlich** (elektronische Form ausgeschlossen) |
 
-!!! warning "Wichtiger Grund"
-    Ein **wichtiger Grund** für Kündigung durch den Betrieb kann z. B. sein: wiederholte Verletzung von Pflichten, Diebstahl, massive Leistungsverweigerung. Die Kammer ist oft beteiligt.
+!!! info "Wichtiger Grund"
+    Ein **wichtiger Grund** für eine Kündigung durch den Betrieb kann z. B. sein: wiederholte Verletzung von Pflichten, Diebstahl, massive Leistungsverweigerung. Der Betriebsrat ist bei Kündigungen zu beteiligen.
 
 ---
 
