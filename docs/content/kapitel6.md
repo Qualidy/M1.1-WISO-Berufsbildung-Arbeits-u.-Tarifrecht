@@ -76,7 +76,7 @@ flowchart LR
 
 ## 6.3 Jugend- und Auszubildendenvertretung (JAV)
 
-In Betrieben mit in der Regel **mindestens 5 Auszubildenden** kann eine **Jugend- und Auszubildendenvertretung (JAV)** gewählt werden.
+In Betrieben mit einem Betriebsrat und **mindestens 5 jugendlichen oder auszubildenden Beschäftigten** (unter 18 Jahren bzw. Azubis unter 25) kann eine **Jugend- und Auszubildendenvertretung (JAV)** gewählt werden (§ 60 BetrVG).
 
 | Thema | Rolle der JAV |
 |---|---|

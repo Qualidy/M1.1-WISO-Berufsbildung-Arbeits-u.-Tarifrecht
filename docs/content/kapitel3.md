@@ -25,7 +25,7 @@
 
 ## So gehst du vor
 
-1. Lies die Kapitelinhalte und verstehe den Zusammenhang zwischen Ordung, Plan und Prüfung.
+1. Lies die Kapitelinhalte und verstehe den Zusammenhang zwischen Ordnung, Plan und Prüfung.
 2. Bearbeite die **Kurzübungen** der Reihe nach – von Grundlagen bis Experte.
 3. Arbeite die **Workshop-Aufgabe** durch. Sie vertieft das Gelernte an einem zusammenhängenden Szenario.
 
@@ -92,7 +92,7 @@ flowchart LR
 
 **Beispiel Fachinformatiker AE:**
 
-| Inhalt laut Ordung (Auswahl) | Im BAP geplant? |
+| Inhalt laut Ordnung (Auswahl) | Im BAP geplant? |
 |---|---|
 | Programmiersprachen und Entwicklungsumgebungen | z. B. Java-Projekt in Jahr 1 |
 | Datenbanken modellieren und nutzen | z. B. SQL-Schulung + Praxis |
@@ -103,7 +103,7 @@ flowchart LR
 
 ## 3.4 Rolle in der Umschulung
 
-In der **Unterrichtsphase** deckt der Bildungsträger viele theoretische Inhalte ab. Im **Praktikumsbetrieb** muss der BAP zeigen, wie die **betriebliche Praxis** die Ordung erfüllt.
+In der **Unterrichtsphase** deckt der Bildungsträger viele theoretische Inhalte ab. Im **Praktikumsbetrieb** muss der BAP zeigen, wie die **betriebliche Praxis** die Ordnung erfüllt.
 
 - Unterricht ≠ vollständige betriebliche Ausbildung
 - Betrieb muss **praktische Handlungsfähigkeit** vermitteln

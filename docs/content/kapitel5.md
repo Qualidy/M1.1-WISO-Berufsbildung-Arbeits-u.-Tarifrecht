@@ -56,8 +56,8 @@ flowchart TD
 | Arbeitslosenversicherung (AV) | Arbeitslosengeld | ca. 2,6 %, geteilt |
 | Unfallversicherung (UV) | Arbeitsunfälle, Berufskrankheiten | Nur Arbeitgeber |
 
-!!! info "Gesetzliche vs. private KV"
-    Auszubildende mit geringem Entgelt können oft **familienversichert** bleiben. Ab einer Einkommensgrenze ist eine eigene Krankenversicherung Pflicht – ggf. studentische oder gesetzliche KV.
+!!! info "Auszubildende sind eigenständig pflichtversichert"
+    Auszubildende gelten sozialversicherungsrechtlich als **Beschäftigte** und sind daher **ab dem ersten Euro eigenständig pflichtversichert** – unabhängig von der Höhe der Ausbildungsvergütung. Eine beitragsfreie **Familienversicherung** über Eltern oder Ehepartner ist während der Ausbildung deshalb **nicht** möglich. Liegt die Vergütung unter der **Geringverdienergrenze** (§ 20 SGB IV), trägt der Arbeitgeber die Beiträge allein.
 
 ---
 
@@ -65,8 +65,8 @@ flowchart TD
 
 | Thema | Regelung |
 |---|---|
-| Pflichtversicherung | Auszubildende sind in der Regel sozialversicherungspflichtig |
-| Mindestvergütung | Ausbildungsvergütung unter bestimmten Grenzen kann von Sozialversicherung frei sein |
+| Pflichtversicherung | Auszubildende sind als Beschäftigte in allen fünf Zweigen pflichtversichert |
+| Geringverdienergrenze | Liegt die Ausbildungsvergütung unter der Grenze (§ 20 SGB IV), trägt der Arbeitgeber die SV-Beiträge allein |
 | Berufsschule | Versicherungsschutz während der Ausbildung, auch in Berufsschulzeiten |
 | Unfallversicherung | Gilt auch in Berufsschule und auf dem Weg dorthin |
 
@@ -76,8 +76,8 @@ flowchart TD
 
 | Phase | Typische Finanzierung / Versicherung |
 |---|---|
-| Unterricht beim Bildungsträger | Oft ALG I, Übergangsgeld oder Bildungsgutschein – **kein** klassisches Beschäftigungsverhältnis |
-| Krankenversicherung | Gesetzlich über Arbeitsagentur / vorherige Versicherung / Familienversicherung prüfen |
+| Unterricht beim Bildungsträger | Lebensunterhalt oft über ALG I oder Bürgergeld, Lehrgangskosten häufig per Bildungsgutschein – **kein** Beschäftigungsverhältnis beim Träger |
+| Krankenversicherung | Bei ALG-I-Bezug **eigenständige Pflichtversicherung** über die Agentur (keine Familienversicherung); sonst individuell klären |
 | Praktikum im Betrieb | Ausbildungsvertrag → Sozialversicherung wie bei Auszubildenden |
 
 !!! tip "Status klären"

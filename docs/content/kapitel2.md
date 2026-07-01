@@ -37,7 +37,7 @@ Der **Ausbildungsvertrag** ist die rechtliche Grundlage der Berufsausbildung. Er
 
 **Rechtsgrundlage:** Berufsbildungsgesetz (BBiG), insbesondere § 10–16.
 
-Der Vertrag muss **schriftlich** festgehalten werden. Beide Parteien erhalten eine Ausfahrt. Die Kammer (z. B. IHK) wird über den Vertrag informiert.
+Der Vertrag muss **schriftlich** festgehalten werden. Beide Parteien erhalten eine Ausfertigung. Die Kammer (z. B. IHK) wird über den Vertrag informiert.
 
 ---
 
@@ -68,7 +68,7 @@ Nach § 11 BBiG muss der Ausbildungsvertrag mindestens folgende Angaben enthalte
 | Anspruch auf Ausbildung | Betrieb muss alle Inhalte der Ausbildungsordnung vermitteln |
 | Ausbildungsvergütung | Mindestvergütung nach BBiG; Tarif kann höhere Beträge vorsehen |
 | Berufsschulunterricht | Anwesenheit im Pflichtunterricht; Betrieb darf nicht ohne Zustimmung abhalten |
-| Urlaub | Mindestens 24 Werktage pro Jahr (bei 6-Tage-Woche: 20 Tage) |
+| Urlaub | Gesetzlicher Mindesturlaub: 24 Werktage bei 6-Tage-Woche (= 20 Arbeitstage bei 5-Tage-Woche); für unter 18-Jährige mehr (JArbSchG) |
 | Kündigungsschutz | Besondere Kündigungsbeschränkungen in den ersten Jahren |
 | Zeugnis | Anspruch auf Ausbildungszeugnis bei Beendigung |
 | Mitbestimmung | Beteiligung über Jugend- und Auszubildendenvertretung (JAV), falls vorhanden |

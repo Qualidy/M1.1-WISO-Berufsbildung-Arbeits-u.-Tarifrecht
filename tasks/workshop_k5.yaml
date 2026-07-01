@@ -1,20 +1,25 @@
 title: Sozialrecht – Gesamtfall
 difficulty: 4
 question: |
-  **Szenario:** Umschüler, 42 Jahre. Phase 1: ALG I während Unterricht. Phase 2: Ausbildung im Betrieb ab September. Familienversicherung über Ehepartner bisher.
+  **Szenario:** Umschüler, 42 Jahre. **Vor** der Umschulung war er ohne eigenes Einkommen über seine Ehepartnerin **familienversichert**. Phase 1 (Unterricht): Er bezieht **ALG I**. Phase 2 (Praktikum ab September): Ausbildungsvertrag mit 1.050 € Ausbildungsvergütung.
 
   ---
 
   **Aufgabe:**
 
-  1. Kläre für **Phase 1**: Krankenversicherung, ALG-Bezug, Rentenansprüche.
+  1. **Phase 1:** Was passiert mit der Krankenversicherung, sobald ALG I bezogen wird? Bleibt die Familienversicherung bestehen? Wer zahlt die Rentenbeiträge?
 
-  2. Kläre für **Phase 2**: Welche Versicherungen greifen, wer zahlt Beiträge?
+  2. **Phase 2:** Welche Versicherungen greifen als Auszubildender, wer zahlt die Beiträge?
 
-  3. **Familienversicherung**: Bleibt sie möglich bei Ausbildungsvergütung? Was prüfen?
+  3. Warum ist eine **Familienversicherung während der Ausbildung** nicht möglich?
 
   4. Erstelle eine **Beratungs-Checkliste** für den Übergang (8 Punkte).
 
   **Deliverables:** Checkliste + kurze Erläuterungen
+tip: |
+  ALG-I-Bezug und Ausbildung lösen jeweils eine eigene Versicherungspflicht aus – beides schließt die beitragsfreie Familienversicherung aus.
 solution: |
-  Phase 1: KV über ALG; Phase 2: SV-pflichtig; Familienversicherung abhängig von Grenze und Ehepartner-Einkommen; Checkliste: Status, Grenzen, Bescheide, Arbeitgeber-Meldung, UV, Rentenkasse informieren.
+  1. Mit Beginn des ALG-I-Bezugs wird er in KV und PV **eigenständig pflichtversichert**; die Beiträge übernimmt die Bundesagentur für Arbeit. Die **Familienversicherung endet**, weil der ALG-Bezug eine eigene Versicherungspflicht auslöst. Die Agentur zahlt während des ALG-I-Bezugs auch **Rentenbeiträge**.
+  2. Als Auszubildender besteht **Pflichtversicherung in allen fünf Zweigen** (KV, PV, RV, AV; UV trägt der Betrieb). Beiträge zu KV/PV/RV/AV teilen sich Arbeitgeber und Arbeitnehmer; liegt die Vergütung unter der Geringverdienergrenze, zahlt der Arbeitgeber allein.
+  3. Auszubildende gelten als Beschäftigte und sind **ab dem ersten Euro** eigenständig pflichtversichert – eine beitragsfreie Familienversicherung ist damit ausgeschlossen.
+  4. Checkliste (Beispiele): Krankenkasse wählen/ummelden; Statuswechsel der Agentur melden; Ende der Familienversicherung mit der Kasse klären; Rentenversicherungsnummer bereithalten; Anmeldung zur SV durch den Arbeitgeber; Steuer-ID/Steuerklasse klären; Beitrags- und Nettohöhe prüfen; Beratungstermin bei Krankenkasse/Agentur.

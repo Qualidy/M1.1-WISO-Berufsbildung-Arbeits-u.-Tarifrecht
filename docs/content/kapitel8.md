@@ -119,7 +119,7 @@ Seit der Reform des BBiG gibt es eine **gesetzliche Mindestausbildungsvergütung
 | − RV AN | − 93,00 € |
 | − AV AN | − 13,00 € |
 | − Lohnsteuer | − 0,00 € |
-| **Netto** | **907,00 €** |
+| **Netto** | **801,00 €** |
 
 (Werte illustrativ – individuelle Abrechnung kann abweichen.)
 

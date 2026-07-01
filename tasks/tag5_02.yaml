@@ -8,7 +8,7 @@ question: |
 
   Tabelle: Phase | Krankenversicherung | Rentenversicherung | Besonderheiten
 tip: |
-  In Unterrichtsphase oft ALG – kein klassischer Arbeitnehmerstatus beim Träger.
+  Bei ALG-I-Bezug bist du eigenständig pflichtversichert – nicht familienversichert. Kein Arbeitnehmerstatus beim Träger.
 solution: |
-  Unterricht: KV über ALG/Familie/vorherige Versicherung; keine RV aus Beschäftigung beim Träger.
-  Praktikum: volle SV-Pflicht als Azubi, UV auch in Berufsschule.
+  Unterricht (ALG-I-Bezug): KV/PV als eigenständige Pflichtversicherung über die Bundesagentur; die Agentur zahlt auch RV-Beiträge; kein Beschäftigungsverhältnis beim Träger.
+  Praktikum: volle SV-Pflicht als Azubi (KV/PV/RV/AV), Beiträge von AG und AN geteilt (unter Geringverdienergrenze AG allein); UV über den Betrieb, auch in Berufsschulzeiten.

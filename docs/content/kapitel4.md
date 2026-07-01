@@ -42,7 +42,7 @@ Das **Arbeitsrecht** regelt das Rechtsverhältnis zwischen **Arbeitgeber** und *
 | BBiG | Berufsausbildung, Ausbildungsvertrag |
 | BGB (Buch 5) | Arbeitsvertrag, Kündigung |
 | Kündigungsschutzgesetz (KSchG) | Schutz bei Kündigung (nach Wartezeit) |
-| Bundesurlaubgesetz (BUrlG) | Erholungsurlaub |
+| Bundesurlaubsgesetz (BUrlG) | Erholungsurlaub |
 | Jugendarbeitsschutzgesetz (JArbSchG) | Schutz junger Arbeitnehmer und Azubis unter 18 |
 | Arbeitsschutzgesetz (ArbSchG) | Gesundheit und Sicherheit am Arbeitsplatz |
 
@@ -97,7 +97,7 @@ Jede Ausbildung beginnt mit einer **Probezeit**. Sie muss im Ausbildungsvertrag 
 
 Auszubildende haben Anspruch auf **Erholungsurlaub**:
 
-- **Mindestens** nach BBiG: 24 Werktage bei 6-Tage-Woche, 20 Tage bei 5-Tage-Woche
+- **Gesetzlicher Mindesturlaub** nach dem Bundesurlaubsgesetz: 24 Werktage bei 6-Tage-Woche (= 20 Arbeitstage bei 5-Tage-Woche); für Minderjährige gelten die höheren Sätze des JArbSchG
 - Urlaub darf nicht auf die **Berufsschulzeit** angerechnet werden
 - Resturlaub bei Vertragsende oft auszahlen oder nehmen
 
