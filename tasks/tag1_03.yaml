@@ -1,14 +1,18 @@
-title: Praktikumsbetrieb prüfen
+title: Praktikumsbetrieb auswählen
 difficulty: 3
 question: |
-  Du bewirbst dich bei drei IT-Betrieben für dein Praktikum. Betrieb A bietet nur Helpdesk ohne Entwicklung (du willst AE). Betrieb B hat keinen anerkannten Ausbilder. Betrieb C ist IHK-anerkannt, hat AE-Projekte und Mentoring.
+  Du suchst als Umschüler (Ziel: AE) einen Praktikumsbetrieb und hast drei Optionen:
 
-  1. Welcher Betrieb erfüllt die **gesetzlichen Mindestanforderungen** für eine Ausbildung?
-  2. Welcher Betrieb ist für **dein Ziel AE** am besten geeignet?
-  3. Nenne **4 Kriterien**, die du bei der Betriebswahl zusätzlich prüfen würdest.
+  - Betrieb A: nur Helpdesk/Support, keine Softwareentwicklung
+  - Betrieb B: entwickelt Software, aber niemand hat Zeit für Betreuung
+  - Betrieb C: entwickelt Software, stellt einen festen Mentor, passende Aufgaben
+
+  1. Welcher Betrieb passt fachlich am besten zu deinem Ziel **AE**?
+  2. Warum ist **Betreuung** im Praktikum so wichtig?
+  3. Nenne **4 Kriterien**, die du bei der Wahl eines Praktikumsbetriebs zusätzlich prüfst.
 tip: |
-  Ausbildungsbefähigung und Passung zur Fachrichtung sind zentrale Punkte.
+  Beim unbezahlten Praktikum zählen fachliche Passung und Betreuung – nicht Vergütung.
 solution: |
-  1. Betrieb C (und theoretisch A und B nur wenn Ausbildungsbefähigung vorhanden – B vermutlich nicht).
-  2. Betrieb C – AE-Projekte und Mentoring.
-  3. Beispiele: Technologie-Stack, Übernahmechancen, Arbeitszeiten, Vergütung/Tarif, Teamgröße IT, Homeoffice-Regelung.
+  1. Betrieb C – echte Entwicklung, Betreuung und passende Aufgaben.
+  2. Ohne Anleitung lernst du wenig Praxisrelevantes; ein Mentor gibt Aufgaben, Feedback und Orientierung.
+  3. Beispiele: Technologie-Stack, echte Projektaufgaben, Praktikumsdauer, Erreichbarkeit/Standort, Kontakt-/Übernahmeperspektive, Abstimmung mit dem Bildungsträger.

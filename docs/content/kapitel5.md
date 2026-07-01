@@ -72,16 +72,18 @@ flowchart TD
 
 ---
 
-## 5.4 Umschulung: Unterrichtsphase vs. Praktikum
+## 5.4 Sozialversicherung als Umschüler
 
-| Phase | Typische Finanzierung / Versicherung |
+Als **Umschüler** bist du in **beiden Phasen** – Unterricht **und** unbezahltes Betriebspraktikum – **kein** sozialversicherungspflichtig Beschäftigter. Dein Versicherungsstatus richtet sich nach der Leistung der Agentur, nicht nach einer Vergütung.
+
+| Situation | Versicherung / Finanzierung |
 |---|---|
-| Unterricht beim Bildungsträger | Lebensunterhalt oft über ALG I oder Bürgergeld, Lehrgangskosten häufig per Bildungsgutschein – **kein** Beschäftigungsverhältnis beim Träger |
-| Krankenversicherung | Bei ALG-I-Bezug **eigenständige Pflichtversicherung** über die Agentur (keine Familienversicherung); sonst individuell klären |
-| Praktikum im Betrieb | Ausbildungsvertrag → Sozialversicherung wie bei Auszubildenden |
+| Unterricht beim Bildungsträger | Lebensunterhalt über ALG I oder Bürgergeld, Lehrgangskosten häufig per Bildungsgutschein – kein Beschäftigungsverhältnis |
+| Unbezahltes Betriebspraktikum | Keine Ausbildungsvergütung, keine SV aus Beschäftigung; Leistungsbezug und Versicherung laufen weiter wie in der Unterrichtsphase |
+| Krankenversicherung | Bei ALG-I-Bezug eigenständige Pflichtversicherung über die Agentur (keine Familienversicherung); bei Bürgergeld gesondert klären |
 
-!!! tip "Status klären"
-    In der Unterrichtsphase bist du oft **nicht** Arbeitnehmer des Bildungsträgers. Kläre **Krankenversicherung** und **Leistungsbezug** mit Arbeitsagentur oder Berater – das ist individuell.
+!!! warning "Umschüler vs. Azubi"
+    Nur ein **regulärer Azubi** ist über seine **Ausbildungsvergütung** sozialversicherungspflichtig (siehe 5.3). Dein **unbezahltes Umschüler-Praktikum** löst **keine** eigene Sozialversicherung aus. Kläre deinen Status immer konkret mit Arbeitsagentur und Krankenkasse.
 
 ---
 

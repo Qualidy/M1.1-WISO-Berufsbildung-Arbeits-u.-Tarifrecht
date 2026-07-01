@@ -104,14 +104,17 @@ Nach § 11 BBiG muss der Ausbildungsvertrag mindestens folgende Angaben enthalte
 
 ---
 
-## 2.6 Besonderheiten vor dem Praktikumsbetrieb
+## 2.6 Übertragung auf das Umschüler-Praktikum
 
-Wenn du noch **keinen Betrieb** hast, solltest du den Ausbildungsvertrag bereits **konzeptionell** verstehen:
+Die Regeln des Ausbildungsvertrags gelten für das **reguläre Ausbildungsverhältnis**. Als Umschüler schließt du mit dem Praktikumsbetrieb dagegen einen **Praktikumsvertrag** – **unbezahlt** und mit anderem Inhalt. Vieles lässt sich aber übertragen:
 
-- **Verhandlungsbasis:** Welche Vergütung, Dauer und Fachrichtung (AE, SI, DPA, DV) sind realistisch?
-- **Checkliste für Vertragsprüfung:** Beim Erhalt eines Vertrags alle Pflichtinhalte abhaken
-- **Kammerberatung:** IHK kann Verträge prüfen und bei Unklarheiten helfen
-- **Mustervertrag:** Kammern bieten Muster – Vergleich mit deinem Vertrag sinnvoll
+- **Klare Eckdaten:** Beginn, Dauer, Einsatzbereich und Ansprechperson schriftlich festhalten
+- **Ziele und Nachweise:** Was sollst du lernen, wie wird es dokumentiert (Abstimmung mit dem Bildungsträger)?
+- **Checklisten-Denken:** Wie beim Ausbildungsvertrag alle wichtigen Punkte vor Unterschrift prüfen
+- **Beratung nutzen:** Bildungsträger (und ggf. Kammer) fragen, wenn etwas unklar ist
+
+!!! info "Ausbildungsvertrag ≠ Praktikumsvertrag"
+    Ausbildungsvertrag, Ausbildungsvergütung und betrieblicher Ausbildungsplan gehören zum **Ausbildungsverhältnis** eines Azubis. Dein Umschüler-Praktikum ist unbezahlt und ohne Ausbildungsvertrag – die Vertragsinhalte lernst du hier trotzdem, weil sie Prüfungsstoff sind und für dein späteres Beschäftigungsverhältnis gelten.
 
 ```mermaid
 flowchart TD

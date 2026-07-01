@@ -103,14 +103,14 @@ flowchart LR
 
 ## 3.4 Rolle in der Umschulung
 
-In der **Unterrichtsphase** deckt der Bildungsträger viele theoretische Inhalte ab. Im **Praktikumsbetrieb** muss der BAP zeigen, wie die **betriebliche Praxis** die Ordnung erfüllt.
+Der **betriebliche Ausbildungsplan** gehört zum regulären **Ausbildungsverhältnis** eines Azubis. In der Umschulung übernimmt der **Bildungsträger** die theoretischen Inhalte des Rahmenlehrplans; dein **Betriebspraktikum** liefert die praktische Erfahrung – auch ohne formalen BAP.
 
-- Unterricht ≠ vollständige betriebliche Ausbildung
-- Betrieb muss **praktische Handlungsfähigkeit** vermitteln
-- Für die **Abschlussprüfung** brauchst du betriebliche Erfahrung in relevanten Bereichen
+- Unterricht beim Träger ≠ vollständige betriebliche Praxis
+- Für die **Abschlussprüfung** brauchst du praktische Erfahrung in relevanten Bereichen
+- Nutze das Praktikum gezielt, um Inhalte der Ausbildungsordnung praktisch abzudecken
 
 !!! tip "Eigeninitiative"
-    Wenn der BAP Lücken hat: Mit Ausbilder sprechen, Kammer informieren, ergänzende Maßnahmen vorschlagen (z. B. Zusatzprojekt, Online-Kurs mit Betriebsbezug).
+    Vergleiche die **Ausbildungsordnung** mit dem, was du im Unterricht und im Praktikum tatsächlich machst. Bei Lücken: mit Bildungsträger und Praktikumsbetrieb sprechen und gezielt Aufgaben oder Zusatzprojekte vereinbaren.
 
 ---
 

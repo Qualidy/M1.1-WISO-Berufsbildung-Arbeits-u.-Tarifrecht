@@ -1,14 +1,14 @@
-title: Sozialversicherung in der Umschulung
+title: Sozialversicherung – Umschüler vs. Azubi
 difficulty: 2
 question: |
-  Vergleiche die **Sozialversicherungssituation** in zwei Phasen:
+  Vergleiche die **Sozialversicherungssituation** in zwei Konstellationen:
 
-  1. Unterrichtsphase beim Bildungsträger (ohne Beschäftigung)
-  2. Praktikumsphase mit Ausbildungsvertrag
+  1. Umschüler beim Bildungsträger (Unterricht + unbezahltes Praktikum)
+  2. Regulärer Azubi mit Ausbildungsvertrag und Ausbildungsvergütung
 
-  Tabelle: Phase | Krankenversicherung | Rentenversicherung | Besonderheiten
+  Tabelle: Konstellation | Krankenversicherung | Rentenversicherung | Besonderheiten
 tip: |
-  Bei ALG-I-Bezug bist du eigenständig pflichtversichert – nicht familienversichert. Kein Arbeitnehmerstatus beim Träger.
+  Nur ein Beschäftigungsverhältnis (Azubi) löst eigene SV-Pflicht aus. Das Umschüler-Praktikum ist unbezahlt.
 solution: |
-  Unterricht (ALG-I-Bezug): KV/PV als eigenständige Pflichtversicherung über die Bundesagentur; die Agentur zahlt auch RV-Beiträge; kein Beschäftigungsverhältnis beim Träger.
-  Praktikum: volle SV-Pflicht als Azubi (KV/PV/RV/AV), Beiträge von AG und AN geteilt (unter Geringverdienergrenze AG allein); UV über den Betrieb, auch in Berufsschulzeiten.
+  Umschüler: keine SV aus Beschäftigung; KV/PV/RV bei ALG-I-Bezug über die Agentur (die Agentur zahlt auch RV-Beiträge); Praktikum unbezahlt, keine Ausbildungsvergütung.
+  Azubi: pflichtversichert in allen fünf Zweigen; Beiträge von AG und AN geteilt (unter Geringverdienergrenze AG allein); UV über den Betrieb, auch in Berufsschulzeiten.

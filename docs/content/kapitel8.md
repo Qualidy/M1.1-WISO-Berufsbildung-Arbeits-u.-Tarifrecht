@@ -94,12 +94,14 @@ Seit der Reform des BBiG gibt es eine **gesetzliche Mindestausbildungsvergütung
 
 ---
 
-## 8.5 Unterrichtsphase vs. Praktikum
+## 8.5 Entgeltabrechnung: Azubi vs. Umschüler
 
-| Phase | Einkommen | Abrechnung |
+Eine **Entgeltabrechnung** bekommst du nur aus einem **Beschäftigungsverhältnis**. Das trifft auf den **regulären Azubi** zu – nicht auf das unbezahlte Umschüler-Praktikum.
+
+| Konstellation | Einkommen | Abrechnung |
 |---|---|---|
-| Unterricht (Bildungsträger) | ALG, Übergangsgeld, Bürgergeld – je nach Fall | Keine klassische Lohnabrechnung vom Betrieb |
-| Praktikum (Betrieb) | Ausbildungsvergütung | Monatliche Entgeltabrechnung mit SV und Steuer |
+| Regulärer Azubi (Ausbildungsvertrag) | Ausbildungsvergütung | Monatliche Entgeltabrechnung mit SV und Steuer |
+| Umschüler (Unterricht + unbezahltes Praktikum) | ALG I / Bürgergeld / Übergangsgeld – je nach Fall | Keine Lohn-/Entgeltabrechnung; stattdessen Bescheide der Agentur |
 
 **Wirtschaftliche Zusammenhänge verstehen:**
 

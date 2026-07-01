@@ -88,11 +88,16 @@ flowchart TD
 **Deine Rolle bedeutet:**
 
 - Du bist **Lernende Person** mit eigenverantwortlichem Lernen – besonders in der Online-Unterrichtsphase
-- Du wirst später **Praktikant** bzw. Auszubildende Person im Betrieb mit konkreten Rechten und Pflichten
+- Du absolvierst später ein **Betriebspraktikum**. Anders als ein regulärer Azubi hast du dort **keinen Ausbildungsvertrag** und **keine Ausbildungsvergütung** – deine Finanzierung läuft weiter über die Agentur für Arbeit bzw. den Bildungsträger
 - Du trägst Verantwortung für deinen **Lernfortschritt**, die **Vorbereitung auf den Praktikumsbetrieb** und die **Abschlussprüfung**
 
-!!! tip "Früher Einstieg, später Praktikum"
-    In der Umschulung startest du zunächst überwiegend im Unterricht. Der **Praktikumsbetrieb** kommt oft später – deshalb ist es wichtig, schon in der Unterrichtsphase Ausbildungsinhalte (Vertrag, Plan, Rechte) zu verstehen und aktiv einen passenden Betrieb zu suchen.
+!!! warning "Umschüler-Praktikum ≠ Ausbildungsverhältnis"
+    Wichtige Unterscheidung für dieses Modul:
+
+    - **Als Umschüler** bei einem Bildungsträger machst du ein **unbezahltes Betriebspraktikum**: kein Ausbildungsvertrag mit dem Betrieb, keine Ausbildungsvergütung, keine Sozialversicherung aus einer Beschäftigung.
+    - **Ein regulärer Azubi** hat einen **Ausbildungsvertrag**, bekommt **Ausbildungsvergütung** und ist sozialversicherungspflichtig.
+
+    Die WISO-Inhalte zu **Ausbildungsvertrag, Entgeltabrechnung und Sozialversicherung** lernst du am Beispiel des **regulären Ausbildungsverhältnisses** – das ist Prüfungsstoff und gilt für dein späteres Beschäftigungsverhältnis. Wo es ausdrücklich um deine eigene Umschüler-Situation geht, ist das gesondert gekennzeichnet.
 
 ---
 
@@ -104,15 +109,17 @@ flowchart TD
 | Zielgruppe | Meist Jugendliche nach Schule | Erwachsene mit Berufserfahrung oder abgeschlossener Erstausbildung |
 | Einstieg | Direkt nach Schule oder früh im Lebenslauf | Nach Qualifizierungsvoraussetzungen (z. B. Arbeitsagentur, Bildungsgutschein) |
 | Lernorte | Betrieb und Berufsschule parallel | Zunächst Bildungsträger, später Praktikumsbetrieb |
-| Finanzierung | Ausbildungsvergütung vom Betrieb; Unterhalt über Familie/Job | Oft ALG/Übergangsgeld, Bildungsgutschein; im Praktikum Ausbildungsvergütung |
+| Finanzierung | Ausbildungsvergütung vom Betrieb | Durchgehend über Agentur (ALG/Bürgergeld/Übergangsgeld) + Bildungsgutschein; Betriebspraktikum unbezahlt |
 | Tempo | Gleichmäßiger Jahresrhythmus über 3 Jahre | Verdichteter Stoff, höheres Lerntempo |
 
 **Gemeinsamkeiten:**
 
-- Abschlussprüfung nach **Ausbildungsordnung** Fachinformatiker
-- **Dualer Charakter**: Theorie und betriebliche Praxis
-- **Ausbildungsvertrag** mit Betrieb (im Praktikum)
-- Rechte und Pflichten aus dem Berufsbildungsgesetz (BBiG)
+- Gleiche **Abschlussprüfung** nach der Ausbildungsordnung Fachinformatiker (vor der IHK)
+- **Dualer Charakter**: Verbindung von Theorie und betrieblicher Praxis
+- Orientierung an denselben **Ausbildungsinhalten** (Ausbildungsordnung / Rahmenlehrplan)
+
+!!! note "Kein Ausbildungsvertrag im Umschüler-Praktikum"
+    Der **Ausbildungsvertrag** und die **BBiG-Rechte eines Azubis** gehören zum regulären Ausbildungsverhältnis – **nicht** zum unbezahlten Umschüler-Praktikum. Mit dem Praktikumsbetrieb besteht nur ein **Praktikumsvertrag**.
 
 !!! warning "Nicht „weniger Ausbildung""
     Die Umschulung ist **zeitlich verkürzt**, nicht inhaltlich „abgespeckt". Du musst vergleichbare Kompetenzen in weniger Zeit aufbauen – das erfordert strukturiertes und selbstgesteuertes Lernen.
@@ -121,18 +128,21 @@ flowchart TD
 
 ## 1.4 Der Praktikumsbetrieb
 
-Der **Praktikumsbetrieb** ist dein Ausbildungsbetrieb während der betrieblichen Phase. Er muss bestimmte **Anforderungen** erfüllen, damit die Ausbildung rechtlich und fachlich anerkannt wird.
+Der **Praktikumsbetrieb** ist der Ort deiner **betrieblichen Praxisphase** während der Umschulung. Du schließt mit ihm in der Regel einen **Praktikumsvertrag** (kein Ausbildungsvertrag) – das Praktikum ist **unbezahlt**. Trotzdem sollte der Betrieb fachlich und organisatorisch geeignet sein, damit du echte Praxis für Prüfung und Beruf sammelst.
 
-**Anforderungen an einen Ausbildungsbetrieb (Auswahl):**
+**Anforderungen an einen geeigneten Praktikumsbetrieb (Auswahl):**
 
 | Anforderung | Erklärung |
 |---|---|
-| Eignung der Ausbildungsstätte | Betrieb muss für die Ausbildung zum Fachinformatiker geeignet sein (Tätigkeiten, Ausstattung) |
-| Ausbildungsbefähigung | Betrieb oder Ausbilder muss von der Kammer als geeignet anerkannt sein |
-| Ausbildungsvertrag | Rechtlich wirksamer Vertrag zwischen Betrieb und dir |
-| Betrieblicher Ausbildungsplan (BAP) | Plan, der Ausbildungsinhalte mit der Ausbildungsordnung abstimmt |
-| Ausbildungsvergütung | Mindestvergütung nach BBiG (staffelt nach Ausbildungsjahr) |
-| Berufsschul-/Unterrichtszeiten | Keine Ausbildung während Pflichtunterricht ohne Zustimmung |
+| Fachliche Eignung | Betrieb arbeitet real im Bereich deiner Fachrichtung (AE, SI, DPA, DV) |
+| Passende Tätigkeiten | Aufgaben mit Bezug zu den Ausbildungsinhalten, nicht nur „Zuschauen" |
+| Betreuung | Feste Ansprechperson/Mentor, die dich anleitet |
+| Ausstattung | Arbeitsplatz, Zugänge, Technik für sinnvolles Arbeiten |
+| Praktikumsdauer | Ausreichend lang für einen echten Kompetenzaufbau |
+| Absprache mit Bildungsträger | Praktikumsvertrag, Ziele und Nachweise abgestimmt |
+
+!!! info "Abgrenzung zum Ausbildungsbetrieb"
+    Ein **regulärer Ausbildungsbetrieb** (für Azubis) muss zusätzlich strengere BBiG-Anforderungen erfüllen: **Ausbildungsvertrag**, **Ausbildungsbefähigung** der Kammer, **betrieblicher Ausbildungsplan** und **Ausbildungsvergütung**. Diese lernst du in Kapitel 2 und 3 kennen – sie gelten für das **Ausbildungsverhältnis**, nicht für dein unbezahltes Umschüler-Praktikum.
 
 **Worauf du bei der Betriebswahl achten solltest:**
 
